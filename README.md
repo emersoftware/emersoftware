@@ -1,7 +1,5 @@
-<h2> Desarrollador, Ing. Civil Informático </h2>
+## Desarrollador e Ingeniero Civil Informático
 
-Desarrollo web e implementación de IA.
+Especializado en desarrollo web e integración de inteligencia artificial generativa, con experiencia en la creación de agentes a partir de LLMs.
 
-Actualmente trabajando con Python y bibliotecas de IA. Un poco de Nextjs.
-
-Desarrollé un chatbot basado en LLM sobre la ley chilena usando la arquitectura RAG y tecnologías como Python, Langchain y Qdrant.
+Actualmente trabajando en proyectos que utilizan Python y bibliotecas avanzadas de IA, con conocimientos en Next.js para el desarrollo de aplicaciones frontend.
